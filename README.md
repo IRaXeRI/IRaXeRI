@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Not too much to say about me tho
 <!--
 **IRaXeRI/IRaXeRI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
