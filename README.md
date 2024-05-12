@@ -5,15 +5,7 @@ Not too much to say about me tho
 - 🔭 I’m currently working on system to make reagents administration and localization easier in laboratories of University of Łódź Biology and Chemistry departments
 
 🌱 I’m currently learning:
-- C#
-- C++
-- Java
-- Python
-- JavaScript
-- HTML5
-- CSS
-- Processing
-- Data Science
+C#, C++, Java, Python, JavaScript, HTML5, CSS, Processing, Data Science
 <!--
 **IRaXeRI/IRaXeRI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
