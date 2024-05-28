@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Not too much to say about me tho
+Aspiring programmer and digital artist
 
 - 🔭 I’m currently working on system to make reagents administration and localization easier in laboratories of University of Łódź Biology and Chemistry departments
 
